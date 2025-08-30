@@ -4,7 +4,7 @@ This project was created to keep track of your expenses. We are given a default 
 
 
 ### Default Menu
-![]([https://raw.githubusercontent.com/Ste881/expense_calculator/main/demo%20gif/Default%20menu%20total.gif](https://github.com/Ste881/data-science-parent-repo/blob/main/expense_calculator/demo%20gif/Default%20menu%20total.gif))
+![](https://github.com/Ste881/data-science-parent-repo/blob/main/expense_calculator/demo%20gif/Default%20menu%20total.gif)
 
 ### New Category Addition
 ![](https://raw.githubusercontent.com/Ste881/expense_calculator/main/demo%20gif/New%20category%20addition.gif)
@@ -17,6 +17,7 @@ This project was created to keep track of your expenses. We are given a default 
 
 ### Exit Category
 ![](https://raw.githubusercontent.com/Ste881/expense_calculator/main/demo%20gif/Exit%20category.gif)
+
 
 
 
